@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "chart.js": "^3.9.1",
+    "vue-chartjs": "^4.1.2",
+    "framer-motion": "^10.16.4"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.1.21",
+    "@iconify-json/mdi": "^1.1.54",
+    "@iconify-json/tabler": "^1.1.96"
+  }
+}
